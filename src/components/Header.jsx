@@ -7,7 +7,7 @@ const Header = () => {
     <div
       className="min-h-screen mb-4 bg-cover bg-center flex items-center w-full overflow-hidden"
       style={{
-        backgroundImage: `url(${process.env.PUBLIC_URL}/header_img.png)`,
+        backgroundImage: `url(https://laurensiusnath.github.io/estate-homepage/header_img.png)`,
       }}
       id="Header"
     >
